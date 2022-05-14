@@ -1,13 +1,19 @@
 body {
   background-color: #460a4a;
   font-family: courier; 
+  margin-top: 5em;
+  margin-bottom: 5em;
 }
 p {
   color: #718083;
+  #text-align: center;
 }
 h1 {
   color: #2176c7;
-  margin-top: 5em;
+}
+h2 {
+  color: #718083;
+  margin-top: 2em;
 }
 a {
   color: #269286;
@@ -15,7 +21,7 @@ a {
 }
 .warp
 {
-  width: 28em;
+  width: 640;
   margin:0 auto;
 }
 
@@ -24,3 +30,4 @@ a {
   color: #718083;
   text-decoration: none
 }
+
